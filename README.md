@@ -52,7 +52,7 @@ Arsitektur *data warehouse* DompetImut terdiri dari tiga zona utama:
 * Setelah data dimuat ke *data warehouse*, Anda dapat menjalankan kueri analitik dari direktori `sql_scripts/OLAP_Queries/` (misalnya, `analysis_queries.sql`) menggunakan SSMS atau alat kueri SQL lainnya yang terhubung ke *data warehouse* DompetImut.
 * Data juga dapat diakses melalui SSAS Cube dan divisualisasikan menggunakan Power BI[cite: 1, 106].
 
-## Tim Proyek (Kelompok 27 RC) [cite: 1, 171]
+## Tim Proyek (Kelompok 27 RC)
 
 | Nama                    | NIM       | Peran   |
 | ----------------------- | --------- | ------- |
